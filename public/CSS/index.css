@@ -2,9 +2,7 @@ body{
     /* background-size: 1550px 900px; */
     background-color:gray ;
 }
-.html{
-    background-color:gray ;
-}
+
 h1{
     color: blue;
     padding: 10px;
@@ -15,12 +13,10 @@ h1{
     margin-top:-20px;
     border-radius: 3px;
     background-color: white;
-
 }
 .box1{
     max-width: 370px;
     margin-left: 390px ;
-    /* margin-top:130px; */
     border-radius: 5px;
     background-color: white;
     background-repeat: no-repeat;
